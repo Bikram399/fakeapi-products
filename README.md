@@ -1,6 +1,7 @@
 # Shopping 🛒
 This is a mini e-commerce project.
 Using fakeapi products
+Given by the Softsensor.ai
 
 ## To start application
 
