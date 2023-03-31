@@ -1,5 +1,6 @@
 # Shopping 🛒
 This is a mini e-commerce project.
+Using fakeapi products
 
 ## To start application
 
